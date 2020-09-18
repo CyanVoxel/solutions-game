@@ -47,6 +47,8 @@ body {
 }
 #unity-progress-bar-empty {
     width: 40%;
+    min-width: 286px;
+    max-width: 858px;
     height: 24px;
     margin: 10px 20px 20px 10px;
     text-align: left;
