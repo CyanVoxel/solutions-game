@@ -52,7 +52,7 @@ body {
     height: 32px;
     margin: 10px 20px 20px 10px;
     text-align: left;
-    border: 2px solid #00bcd4;
+    border: 2px solid #903BF0;
     border-radius: 5px;
     padding: 2px;
 }
@@ -60,7 +60,7 @@ body {
     width: 0%;
     height: 100%;
     border-radius: 2px;
-    background: #00bcd4;
+    background: #903BF0;
 }
 .light #unity-progress-bar-empty {
     border-color: black;
